@@ -1,0 +1,2 @@
+En este ejercicio se usan conexiones entre colecciones mediante el operador look up, empleandose primero una relación 1:N y otra 1:1 entre la colección
+empleados y las otras dos que constituyen la base de datos, departamentos y proyectos, respectivamente. Los trabajadores de la empresa pertenecen a un departamento y trabajan en un proyecto concreto e individual. Si tienen 2 faltas o más, se considerará su conducta como mala.
